@@ -125,11 +125,11 @@ Visit `http://localhost:3000` to start browsing!
 
 #### Homepage
 
-![Light Theme Gutenberg](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/main/images/light-theme-gutenberg.png)
+![Light Theme Gutenberg](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/master/images/light-theme-gutenberg.png)
 
 #### Book List
 
-![Light Theme Books](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/main/images/light-theme-books.png)
+![Light Theme Books](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/master/images/light-theme-books.png)
 
 ---
 
@@ -137,11 +137,11 @@ Visit `http://localhost:3000` to start browsing!
 
 #### Homepage
 
-![Dark Theme Gutenberg](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/main/images/dark-theme-gutenberg.png)
+![Dark Theme Gutenberg](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/master/images/dark-theme-gutenberg.png)
 
 #### Book List
 
-![Dark Theme Books](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/main/images/dark-theme-books.png)
+![Dark Theme Books](https://raw.githubusercontent.com/adityapandey9/gutenberg-project-ui/master/images/dark-theme-books.png)
 
 ---
 
